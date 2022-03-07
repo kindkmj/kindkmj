@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<a href="https://velog.io/@kindcode"><img src="https://img.shields.io/badge/Velog-색상코드?style=flat-square&logo=Velog&logoColor=Green"/>
+<a href="https://velog.io/@kindcode"><img src="https://img.shields.io/badge/Velog-색상코드?style=flat-square&logo=velog&logoColor=Green"/>
 
 <!--
 **kindkmj/kindkmj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
